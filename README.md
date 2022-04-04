@@ -2,8 +2,9 @@
 Bleed Tiktok SSID Grabber tool.
 
 > ### How to use
-> option 1. insert accounts into account.txt
-> option 2. insert email and password in terminal
+> 1. insert accounts into account.txt
+> 2. insert email and password in terminal
+> 3. create "account.txt and sessions.txt"
 
 > ### About
 > Bleed SSID Grabber, when i had my claimer running i used this to obtain session IDS super easy, this has been used a long time ago
